@@ -4,7 +4,7 @@
 ---
 **Overview of Election Audit**
 ---
-<sub>Our purpose in this challenge is extracting the results of a given data set. Specifically, determining the outcome of a democratic election. Firstly we were able to calculate total votes. This gives the project team an idea on how many particapants we're working with. Secondly, we found the votes from each county. Not only do we now know the how many, but now the where. This was also broken down into a percentage to simplify readability. Then just a quick if statement calculates the highest percentage to show the dominant county in our list.</sub>
+Our purpose in this challenge is extracting the results of a given data set. Specifically, determining the outcome of a democratic election. Firstly we were able to calculate total votes. This gives the project team an idea on how many particapants we're working with. Secondly, we found the votes from each county. Not only do we now know the how many, but now the where. This was also broken down into a percentage to simplify readability. Then just a quick if statement calculates the highest percentage to show the dominant county in our list.
 ---
 **Election-Audit Results**
 ---
